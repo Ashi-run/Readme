@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashii Sharma</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Full Stack Enthusiast | Tech Explorer</h3>
+<h3 align="center">🚀 Aspiring Data Scientist </h3>
 
 ---
 
