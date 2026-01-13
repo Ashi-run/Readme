@@ -69,8 +69,8 @@ My work focuses on **mobile development, backend logic, and system design**, wit
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-profile  
-- 💻 GitHub: https://github.com/ashii-sharma  
+- 💼 LinkedIn: https://www.linkedin.com/in/ashii-sharma  
+- 💻 GitHub: https://github.com/Ashi-run 
 - 📧 Email: ashisharma0507@gmail.com  
 
 ---
