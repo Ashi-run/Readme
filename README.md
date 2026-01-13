@@ -1,20 +1,44 @@
-<h1 align="center">Hi, I'm Ashi Sharma 👋</h1>
-<h3 align="center">Software Engineering Intern | Flutter & Backend Systems</h3>
+---# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashi Sharma
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=F0F&center=true&vCenter=true&width=600&lines=Flutter%20Developer;Learning%20New%20Tech;Open%20Source%20Contributor" alt="Glitch Typing SVG" />
+</div>
 
-I am a Computer Science (Data Science) undergraduate with **hands-on experience building real-world, production-used applications**.  
+---
+
+💫 About Me:
+
+🔭 I am a Computer Science (Data Science) undergraduate with **hands-on experience building real-world, production-used applications**.  
 My work focuses on **mobile development, backend logic, and system design**, with an emphasis on reliability and practical problem-solving.
 
 - 📱 Built an **offline-first Flutter B2B application** actively used by a distributor  
 - 🗓️ Developed a **constraint-based university timetable generation system** using Python and MySQL  
 - 🧠 Strong interest in **software systems, backend logic, and scalable application design**
-- 🎯 Currently seeking **Software Engineering / Flutter Internship** opportunities
+- 🎯 Currently seeking **Software Engineering / Flutter Internship** opportunities.
+
+💻 Tech Stack:
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,aws,android,dart,firebase,flask,flutter,git,js,htmx,mysql,kotlin,php,python,vscode,opencv,notion,sass,windows,unity,postgresql,cs,mongodb" />
+</p>
 
 ---
 
+🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ ashii-sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashisharma0507@gmail.com)
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 ## 🚀 Featured Projects
 
 ### 🔹 Bajrang Distributors – B2B Order Booking App
@@ -36,43 +60,12 @@ My work focuses on **mobile development, backend logic, and system design**, wit
 - Automatic fallback scheduling and conflict logging
 - Designed for real academic workflow scenarios
 
----
+📊 GitHub Stats:
 
-## 🛠️ Technical Skills
+![Trophies](https://github-profile-trophy-mirror.vercel.app/?username=Ashi-run&theme=tokyonight)
 
-### Core
-- **Flutter (Dart)** – Mobile App Development  
-- **Python** – Backend logic, scheduling systems  
-- **MySQL** – Relational database design  
-- **Git & GitHub** – Version control & collaboration  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ashi-run&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-### Backend & Web
-- PHP, HTML, CSS, JavaScript  
-- REST APIs, XAMPP  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ashi-run&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Supporting
-- Hive (Offline NoSQL)
-- Streamlit
-- Pandas, NumPy
-- Firebase (basic)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashii-sharma&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashii-sharma&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/ashii-sharma  
-- 💻 GitHub: https://github.com/Ashi-run 
-- 📧 Email: ashisharma0507@gmail.com  
-
----
-
-⭐ *Open to Software Engineering / Flutter Internship roles*  
+---*Open to Software Engineering / Flutter Internship roles*  
